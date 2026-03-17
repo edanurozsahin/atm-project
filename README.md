@@ -1,34 +1,46 @@
-\# ATM Sistemi (Python)
+\# 🏦 ATM System (Python)
 
 
 
-Bu proje Python ile yapılmış basit bir ATM uygulamasıdır.
+This project is a simple ATM application developed using Python.
 
 
 
-\## Özellikler
-
-\- Giriş sistemi
-
-\- Bakiye görüntüleme
-
-\- Para yatırma
-
-\- Para çekme
-
-\- İşlem geçmişi
+\## 🚀 Features
 
 
 
-\## Çalıştırma
+\* Login system
+
+\* View balance
+
+\* Deposit money
+
+\* Withdraw money
+
+\* Transaction history
+
+
+
+\## ▶️ How to Run
+
+
+
+```bash
 
 python main.py
 
+```
 
 
-\## Giriş bilgileri
 
-Kullanıcı adı: admin  
+\## 🔐 Login Credentials
 
-Şifre: 1234
+
+
+\* Username: admin
+
+\* Password: 1234
+
+
 
